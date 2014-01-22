@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="Christopher Pascoe">
+<meta charset="UTF-8">
+<title>Blog | my portfolio</title>
+<link type="text/css" rel="stylesheet" href="style.css">
+</head>
+<body>
+        <header>
+                <h1>Blog</h1>
+                <ul id="nav">
+                        <li><a href="index.html">home</a></li>
+                        <li><a href="lived.html">lived <br />experiences</a></li>
+                        <li><a href="#">cultural <br />analysis</a></li>
+                        <li><a href="#">formal <br />research</a></li>
+                        <li><a href="#">remix</a></li>
+                        <li><a href="#">course <br />retrospective</a></li>
+                        <li><a href="blog.html">blog</a></li>
+                </ul>
+        </header>
+        <main>
+                <h1>In Class Activity 1 Blog</h1>
+                <p> The purpose of this video, Randy Potts memorizes and recites a poem about himself
+                who read a letter to his gay Uncle Ronnie, who met an untimely death in June of 1982.The purpose is to 
+                give hope to LGBT youth. The video reveals an author to announce the words of the poem and to give 
+                hope to those that feel indifferent about sexuality and love. Oral Robert's gay grandson speaks out
+                that things do get better even if you are gay.  The video's attempts to achieve its purpose by using a person to speak 
+                clearly and with a grabbing voice to capture the attention of it's viewers and to help people who are 
+                struggling with LGBT lifestyles that it does get better. The speaker certainly achieves its purpose
+                by using a little personal background of the poem and to not struggle with the memorization. The Video
+                is very well as a narrative. The video attempts to achiev eits purpose of success for those who are LGBT. 
+                The structure of the message is clear. The reader memorizes the poem and recites it with background 
+                music, visual imagery, and with passion to entrigue the viewers of the video. The speaker
+                uses the words of the poem to attract the viewers to think about their own life. The video starst with
+                the actual words of the poem, parapgrpah by paragraph, and then the speaker to reecite the poem from 
+                memory. The Video's project can help me revise my lived experiences project by, using more personal facts of my 
+                lfie and include a better story. 
+
+</p>
+               
+        </main>
+        <footer>
+                <p>&copy; 2013 [Christopher Pascoe]</p>
+        </footer>
